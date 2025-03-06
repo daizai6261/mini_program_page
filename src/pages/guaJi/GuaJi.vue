@@ -159,7 +159,7 @@ export default {
 
 .box1 img{
     width: 100%;
-    height: 100px;
+    height: 200px;
     display: inline-block;
     padding-bottom: 30px;
 }
