@@ -15,6 +15,13 @@
                         <div style="background-color: rgba(55, 74, 112, 0.1);height: 20px;width: 1px;position: absolute;right: 1px;top: 10px"></div>
                     </div>
                     <div style="height: 40px;width: 20%;display: inline-block;background-color: white;text-align: center;vertical-align:top;left: 20%;top:0px;position: absolute">
+                        <div style="color: rgba(55, 74, 112, 0.60);font-family: 'Yuan SC-Regular';margin-top: 10px;width: 100%;text-align: center">语文</div>
+                        <div style="text-align: center;width: 100%;height: 3px;bottom: 0;position: absolute">
+                            <div style="background-color: rgba(55, 74, 112, 0.60);width: 35%;height: 2px;margin: auto; "></div>
+                        </div>
+                        <div style="background-color: rgba(55, 74, 112, 0.1);height: 20px;width: 1px;position: absolute;right: 1px;top: 10px"></div>
+                    </div>
+                    <div style="height: 40px;width: 20%;display: inline-block;background-color: white;text-align: center;vertical-align:top;left: 40%;top:0px;position: absolute">
                         <div style="color: rgba(55, 74, 112, 0.60);font-family: 'Yuan SC-Regular';margin-top: 10px;width: 100%;text-align: center">数学</div>
                         <div style="text-align: center;width: 100%;height: 3px;bottom: 0;position: absolute">
                             <div style="background-color: rgba(55, 74, 112, 0.60);width: 35%;height: 2px;margin: auto; "></div>
